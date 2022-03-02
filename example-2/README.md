@@ -65,3 +65,13 @@
     - If true, the indented code will be executed, 
     - if not it will be skipped.
 
+7. **else folder** contains example for use of assignment operator in Python.
+
+        Syntax
+        if condition :
+                # body of the if statment
+        else:
+                # body of the else
+    
+    - The body of the else will be executed if a condition is false.
+    - The else part does not have condition.
