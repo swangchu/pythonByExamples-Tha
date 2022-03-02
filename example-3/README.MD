@@ -20,3 +20,8 @@ Follow the sequence as given below to learn better.
 3. **practice-2-loop folder** contains example for loop.
   
      Program to generate multiplication table based on user input number.
+
+
+**Project 3**
+
+Program to calculate the average weight of the all students in a class.
