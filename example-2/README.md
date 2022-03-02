@@ -55,6 +55,13 @@
                 > greater than
                 < less than
                 >= greater than or equal to <= less than equal to
+6. **if folder** contains example for use of assignment operator in Python.
+
+        Syntax
+        if condition :
+                # body of the if statment
     
- 
+    - If test a condition whether true or false. 
+    - If true, the indented code will be executed, 
+    - if not it will be skipped.
 
