@@ -1,5 +1,7 @@
 **Example 1**
 
+Follow the sequence as given below to learn better.
+
 1. **Print folder** contains example for use of Python's print function.
   
       Syntax for print function :  
