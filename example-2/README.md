@@ -111,3 +111,17 @@
     Or and not Operators
     - The or logical operator returns true if one of the conditions is true.
     - The logical operator not returns true if the condition is false.
+
+
+**PROJECT 2**
+
+Get the average marks form the user to categorize the result of a student.
+
+                100 - 80 |      Distinction
+                80 - 70  |      First Division
+                70 - 60  |      Second Division
+                60 - 40  |      Third Division
+                Less 40  |      Repeat
+
+If the student failed, ask whether to repeat or not. Incase the student wants to repeat show a welcome back message.
+
