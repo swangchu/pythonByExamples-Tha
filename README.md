@@ -27,7 +27,7 @@ Example 2 includes the following concepts and functions
   
 **Example 3**
 
-Example 2 includes the following concepts and functions
+Example 3 includes the following concepts and functions
   - for loop
   - practice for loop
   - practice for loop
