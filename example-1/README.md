@@ -58,3 +58,9 @@ Follow the sequence as given below to learn better.
         str()  #converts to string 
         int() #converts to integer 
         float() #converts to float
+ 
+ 
+   ** PROJECT 1**
+   
+    _A program to get the name of the students, marks for english, dzongkha, mathematics and science from the user. Calculate the average percentage. Display name,     marks in each subjects and their average percentage._
+ 
