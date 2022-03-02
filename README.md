@@ -10,3 +10,9 @@ Example 1 includes the following concepts and functions
   - Data conversion
   - input function
   - Project 1 : consolidates all the concepts and functions covered
+ 
+ **Example 2**
+
+Example 2 includes the following concepts and functions
+  - type function
+  
