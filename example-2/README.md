@@ -55,7 +55,7 @@
                 > greater than
                 < less than
                 >= greater than or equal to <= less than equal to
-6. **if folder** contains example for use of assignment operator in Python.
+6. **if folder** contains example for use of if statement in Python.
 
         Syntax
         if condition :
@@ -65,7 +65,7 @@
     - If true, the indented code will be executed, 
     - if not it will be skipped.
 
-7. **else folder** contains example for use of assignment operator in Python.
+7. **else folder** contains example for use of if-else statement  in Python.
 
         Syntax
         if condition :
@@ -76,7 +76,7 @@
     - The body of the else will be executed if a condition is false.
     - The else part does not have condition.
  
- 8. **elif folder** contains example for use of assignment operator in Python.
+ 8. **elif folder** contains example for use of if-elif-else statement in Python.
 
         Syntax
         if condition :
@@ -88,3 +88,20 @@
     - If we need to use condition in the else part then elif must be used. 
     - If the condition is true then rest of the conditions are skipped.
     - The elif part does need condition.
+
+9. **logical folder** contains example for use of logical operator(and) in Python.
+
+        Operator | Description          | Expression
+        --------------------------------------------
+           and   |True if both          |   x and y
+                 | operands are true    |
+        ----------------------------------------------
+            or   | True if either of the| x or y
+                 | operands is true     |
+        ---------------------------------------------
+            not  |True if the operand is| not x
+                 | false                |
+        ----------------------------------------------
+
+    - The logical operators are used to check multiple conditions at once.
+    - The logical expression either results true or false.
