@@ -51,3 +51,10 @@ Follow the sequence as given below to learn better.
         Boolean
         A boolean data type can be either true or false only.
 
+5. **TypeConversion folder** contains example for use of Python's type conversion functions.
+  
+      **Type Conversion**
+      
+        str()  #converts to string 
+        int() #converts to integer 
+        float() #converts to float
