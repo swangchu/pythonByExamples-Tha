@@ -44,3 +44,17 @@
     
     - A single = is called assignment operator. 
     - It assigns values to a variable.
+    
+5. **comparision folder** contains example for use of comparision operators in Python.
+
+        Syntax
+        Comparison Operators
+                These operators are used to compare.
+                == is equality
+                != not equal to
+                > greater than
+                < less than
+                >= greater than or equal to <= less than equal to
+    
+ 
+
