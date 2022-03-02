@@ -75,3 +75,16 @@
     
     - The body of the else will be executed if a condition is false.
     - The else part does not have condition.
+ 
+ 8. **elif folder** contains example for use of assignment operator in Python.
+
+        Syntax
+        if condition :
+                # body of the if statment
+        elif condition:
+                # body of the elif
+        else:
+                #body of else
+    - If we need to use condition in the else part then elif must be used. 
+    - If the condition is true then rest of the conditions are skipped.
+    - The elif part does need condition.
