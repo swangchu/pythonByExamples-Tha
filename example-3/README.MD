@@ -15,4 +15,8 @@ Follow the sequence as given below to learn better.
 
 2. **practice-1-loop folder** contains example for loop.
   
-     - Write a program to count total numbers divisible by 3 below 30. Display the total.
+     Write a program to count total numbers divisible by 3 below 30. Display the total.
+
+3. **practice-2-loop folder** contains example for loop.
+  
+     Program to generate multiplication table based on user input number.
