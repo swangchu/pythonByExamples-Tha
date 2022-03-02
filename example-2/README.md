@@ -26,5 +26,13 @@
     - There are two types of comments. 
     - Single line comments starts with #
     - Multiline comments are included in triple quotes; """.
-  
+
+3. **arithmetic folder** contains example for use of aithmetic operators in Python.
+
+        Syntax
+        5 % 3 
+        # 5 modulo 3 which will give us 2
+        # since 2 is the remainder
     
+    - Arithmetic Operators operators like +, - , / and * have their usual meaning.
+    - Modulo % gives the reminder part of a division.
