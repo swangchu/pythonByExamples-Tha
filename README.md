@@ -15,4 +15,13 @@ Example 1 includes the following concepts and functions
 
 Example 2 includes the following concepts and functions
   - type function
+  - comments
+  - arithmetic operators
+  - assignment operator
+  - comparision operators
+  - if condition
+  - if-else statement
+  - if-elif-else statement
+  - logical operator
+  - Project 2: consolates all the concepts covered so far
   
