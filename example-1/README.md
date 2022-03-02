@@ -25,3 +25,10 @@
         • must not begin with a number 
         • no spaces in the name
 
+3. **Input folder** contains example for use of Python's input function.
+  
+      Syntax for input function :  
+      
+        input("What's your name?")
+        
+      - Input prompts the user to input during run time. This function converts whatever user entered to a string.
