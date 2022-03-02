@@ -34,3 +34,20 @@ Follow the sequence as given below to learn better.
         input("What's your name?")
         
       - Input prompts the user to input during run time. This function converts whatever user entered to a string.
+
+4. **DataType folder** contains example for use of Python's Data types.
+  
+      **Data Types**
+      
+        Integer
+        Integers are whole numbers.
+        
+        Float
+        Floats are numbers with decimal point.
+        
+        String
+        A string is a row of characters. I should be within a double quotes.
+        
+        Boolean
+        A boolean data type can be either true or false only.
+
