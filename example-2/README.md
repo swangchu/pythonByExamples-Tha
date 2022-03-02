@@ -105,3 +105,9 @@
 
     - The logical operators are used to check multiple conditions at once.
     - The logical expression either results true or false.
+
+10. **orNot folder** contains example for use of 'or' and 'not' logical operator in Python.
+
+    Or and not Operators
+    - The or logical operator returns true if one of the conditions is true.
+    - The logical operator not returns true if the condition is false.
