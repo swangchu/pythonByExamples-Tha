@@ -25,3 +25,10 @@ Example 2 includes the following concepts and functions
   - logical operator
   - Project 2: consolates all the concepts covered so far
   
+**Example 3**
+
+Example 2 includes the following concepts and functions
+  - for loop
+  - practice for loop
+  - practice for loop
+  - Project 3: consolates all the concepts covered so far
