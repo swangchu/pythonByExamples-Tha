@@ -36,3 +36,11 @@
     
     - Arithmetic Operators operators like +, - , / and * have their usual meaning.
     - Modulo % gives the reminder part of a division.
+
+4. **assignment folder** contains example for use of assignment operator in Python.
+
+        Syntax
+        variableName = value
+    
+    - A single = is called assignment operator. 
+    - It assigns values to a variable.
