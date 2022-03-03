@@ -42,3 +42,8 @@ Follow the sequence as given below to learn better.
     Program to generate a random number and gets a number from the user. Check if the two numbers are equal. 
     If the user entered number is higher or lower than the random number tell the user about it. 
     The program gives choice to the user to terminate the loop.
+
+7. **Project-5 folder** contains project 5 which uses all the concepts learned so far. 
+
+    Program to simulate Lottery system. The program generates an alphanumeric, an alphabet followed by a number, and compares with user ticket of same format.
+    If the computer generated ticket is same as user’s ticket than display you won message. Other display a message of regret.
