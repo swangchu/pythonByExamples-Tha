@@ -50,4 +50,6 @@ Follow the sequence as given below to learn better.
         extend()       | adds a list to the list
         remove()       | removes a particular item
     
-5. 
+**Project 6**
+
+This program gets student's name and their english, dzongkha, and math marks. These user inputs are appended to the empty list. It displays the item and has a features to edit the marks.
