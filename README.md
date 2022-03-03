@@ -32,3 +32,14 @@ Example 3 includes the following concepts and functions
   - practice for loop
   - practice for loop
   - Project 3: consolates all the concepts covered so far
+
+**Example 4**
+
+Example 4 includes the following concepts and functions
+  - break and continue statement
+  - while loop
+  - pratice 1 for while loop
+  - practice 2 for while loop
+  - random module
+  - project 4
+  - project 5
