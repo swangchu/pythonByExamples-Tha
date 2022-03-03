@@ -23,3 +23,9 @@ Follow the sequence as given below to learn better.
 
     - This code will continue printing Kuzuzangpola as long as the user enters “yes”.
     - The while loop will stop only when the user enters other than yes.
+
+4. **practice-2-while folder** contains example practice while loop in Python.
+
+    - he variable x is of boolean data type. True is assigned to it.
+    - Hello, World will be printed only once.
+    - The variable x is assigned False. This makes while condition false.
