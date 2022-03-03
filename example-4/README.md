@@ -29,3 +29,10 @@ Follow the sequence as given below to learn better.
     - he variable x is of boolean data type. True is assigned to it.
     - Hello, World will be printed only once.
     - The variable x is assigned False. This makes while condition false.
+    
+4. **randomNumber folder** contains example uses random module in Python.
+
+    - Python has many functions that generates random number. 
+    - To use random module we have to import random module in our code.
+    - random.randint(1,10) generate a random number between 1 and 10.
+    - random.choice() generates one element in the sequence.
