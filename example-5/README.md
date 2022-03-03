@@ -33,3 +33,21 @@ Follow the sequence as given below to learn better.
 
     We can access items of the list through their index. Index begins from zero.
     We also use loops to display its items.
+    
+3. **listMethod folder** contains a example for list methods
+
+    List methods help us manipulate with a list.
+    
+        Some of the methods are:
+        Method         |        Description
+        ----------------------------------------------------
+        append()       | adds an item or another list
+        pop()          | removes a item
+        index()        | returns the index of the first match.
+        sort()         | returns a sorted list
+        reverse()      | returns a reverse list
+        count()        | return the number of an item in the list
+        extend()       | adds a list to the list
+        remove()       | removes a particular item
+    
+5. 
