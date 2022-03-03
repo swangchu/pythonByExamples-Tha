@@ -18,3 +18,8 @@ Follow the sequence as given below to learn better.
           1. Initialization ( x = 0)
           2. condition (x < 5)
           3. Increment or decrement (x = x + 1)
+          
+3. **practice-1-while folder** contains example practice while loop in Python.
+
+    - This code will continue printing Kuzuzangpola as long as the user enters “yes”.
+    - The while loop will stop only when the user enters other than yes.
