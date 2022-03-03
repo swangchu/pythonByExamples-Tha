@@ -30,9 +30,15 @@ Follow the sequence as given below to learn better.
     - Hello, World will be printed only once.
     - The variable x is assigned False. This makes while condition false.
     
-4. **randomNumber folder** contains example uses random module in Python.
+5. **randomNumber folder** contains example uses random module in Python.
 
     - Python has many functions that generates random number. 
     - To use random module we have to import random module in our code.
     - random.randint(1,10) generate a random number between 1 and 10.
     - random.choice() generates one element in the sequence.
+
+6. **Project-4 folder** contains project 4 which uses all the concepts learned so far. 
+
+    Program to generate a random number and gets a number from the user. Check if the two numbers are equal. 
+    If the user entered number is higher or lower than the random number tell the user about it. 
+    The program gives choice to the user to terminate the loop.
