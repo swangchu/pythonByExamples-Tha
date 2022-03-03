@@ -43,3 +43,11 @@ Example 4 includes the following concepts and functions
   - random module
   - project 4
   - project 5
+
+**Example 5**
+
+Example 5 includes the following concepts and methods
+  - string
+  - List
+  - List methods
+  - Project 6
