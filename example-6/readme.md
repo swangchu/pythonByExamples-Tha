@@ -26,3 +26,10 @@ Follow the sequence as given below to learn better.
     
             { key1: value1, key2: value2 }      
     - To access the value we write dictionary name followed by the key in a square bracket.
+
+4. **DictionaryMethods folder** contains example for use of dictionary methods in Python.
+
+    - An empty dictionary called bio is declared.
+    - Adding Dawa as the key for name. Adding 18 for the key age.
+    - We are using for loop to display the key and value pair stored in the dictionary called bio.
+    - We use pop() method to remove the key-value pair.
