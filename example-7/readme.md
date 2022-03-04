@@ -23,3 +23,13 @@ Follow the sequence as given below to learn better.
     - We use return in the function to return a value. 
     - The function will not have print statement.
     - The print statement prints the value return by the function.
+
+
+# Project 8
+
+- This project is to get the english I, II and dzongkha 1, II marks for the user.
+- The eng_marks() function returns the total of english marks.
+- The dzo_marks() function returns the total marks of the dzongkha marks.
+- The averages of english and dzongkha marks are calculated.
+- If the student scored either average marks in english or dzongkha display Repeat.
+- Otherwise display the average marks of english and dzongkha marks.
