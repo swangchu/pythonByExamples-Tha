@@ -33,3 +33,11 @@ Follow the sequence as given below to learn better.
     - Adding Dawa as the key for name. Adding 18 for the key age.
     - We are using for loop to display the key and value pair stored in the dictionary called bio.
     - We use pop() method to remove the key-value pair.
+
+**Project 7**
+
+This project implements the Rock, Paper and Scissors game.
+
+    - The user plays the game against the Robot. Robot makes random choice from a tuple called choice.
+    - An empty dictionary called game is used to store choices of the Robot and user.
+    - The player can continue playing the game as long as the player choose.
