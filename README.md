@@ -1,7 +1,7 @@
 # Python By Examples - Level Tha
 We learn better by referring to the examples. Python by examples is an attempt to help students learn to code from the scratch. This is meant for the beginners level.
 
-**Example 1**
+# Example 1
 
 Example 1 includes the following concepts and functions
   - print function
@@ -11,7 +11,7 @@ Example 1 includes the following concepts and functions
   - input function
   - Project 1 : consolidates all the concepts and functions covered
  
- **Example 2**
+# Example 2
 
 Example 2 includes the following concepts and functions
   - type function
@@ -25,7 +25,7 @@ Example 2 includes the following concepts and functions
   - logical operator
   - Project 2: consolates all the concepts covered so far
   
-**Example 3**
+# Example 3
 
 Example 3 includes the following concepts and functions
   - for loop
@@ -33,7 +33,7 @@ Example 3 includes the following concepts and functions
   - practice for loop
   - Project 3: consolates all the concepts covered so far
 
-**Example 4**
+# Example 4
 
 Example 4 includes the following concepts and functions
   - break and continue statement
@@ -44,7 +44,7 @@ Example 4 includes the following concepts and functions
   - project 4
   - project 5
 
-**Example 5**
+# Example 5
 
 Example 5 includes the following concepts and methods
   - string
@@ -52,7 +52,7 @@ Example 5 includes the following concepts and methods
   - List methods
   - Project 6
 
-**Example 6**
+# Example 6
 
 Example 6 includes the following concepts and methods
   - Tuple
@@ -60,3 +60,10 @@ Example 6 includes the following concepts and methods
   - Dictionary
   - Dictionary methods
   - Project 7
+
+# Example 7
+
+Example 7 includes the following concepts and methods
+  - Function
+  - return value
+  - Project 8
