@@ -67,3 +67,10 @@ Example 7 includes the following concepts and methods
   - Function
   - return value
   - Project 8
+
+# Example 8
+
+Example 8 includes the following concepts and methods
+  - Function with parameters
+  - project 9
+  - Project 10
