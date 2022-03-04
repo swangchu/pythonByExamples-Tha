@@ -17,3 +17,9 @@ Follow the sequence as given below to learn better.
 
           #calling the function
           functionName()
+          
+2. **ReturnValueFunction folder** contains example return value of a function in Python.
+
+    - We use return in the function to return a value. 
+    - The function will not have print statement.
+    - The print statement prints the value return by the function.
