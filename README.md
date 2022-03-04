@@ -74,3 +74,10 @@ Example 8 includes the following concepts and methods
   - Function with parameters
   - project 9
   - Project 10
+
+# Example 9
+
+Example 9 includes the following concepts and methods
+  - Set
+  - Empty set
+  - Difference between set and dictionary
