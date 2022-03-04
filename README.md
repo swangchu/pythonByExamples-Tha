@@ -51,3 +51,12 @@ Example 5 includes the following concepts and methods
   - List
   - List methods
   - Project 6
+
+**Example 6**
+
+Example 6 includes the following concepts and methods
+  - Tuple
+  - Tuple methods
+  - Dictionary
+  - Dictionary methods
+  - Project 7
